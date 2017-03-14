@@ -1,1 +1,3 @@
-# Django_excercise
+# Django Excercise
+
+Django Project Tutorial
